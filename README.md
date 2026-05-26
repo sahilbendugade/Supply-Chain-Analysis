@@ -12,17 +12,17 @@ Build a predictive system for late delivery detection
 Generate actionable insights for logistics optimization
 Techniques Used
 
-Data Processing
+Data Processing -
  Pandas
  NumPy
  Feature Engineering
  Data Cleaning
 
-Visualization
+Visualization -
  Matplotlib
  Seaborn
 
-Machine Learning
+Machine Learning -
  Random Forest
  SMOTE Oversampling
  Frequency Encoding
